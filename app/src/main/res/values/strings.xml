@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StepCount</string>
+
+
+
+    <!-- CARD INFO STRINGS -->
+    <string name="sleep_now_card_info_title">Get to know steps?</string>
+    <string name="sleep_now_card_info_summary">Count your daily steps, make yourself healthy and strong</string>
+    <string name="steps">STEPS</string>
+    <string name="_0">0</string>
+
+
+</resources>
